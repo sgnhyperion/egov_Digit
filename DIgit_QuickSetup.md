@@ -184,7 +184,7 @@ Forwarding from [::1]:8080 -> 8080
   ![Screenshot from 2024-03-25 23-42-26](https://github.com/sgnhyperion/egov_Digit/assets/140370637/f93a4492-607d-442e-8d02-4b5e58a936be)
 
 
-  ###then  Paste the below link in the browser.
+  ### then  Paste the below link in the browser.
     "quickstart.local.digit/employee"
   ![Screenshot from 2024-03-25 23-43-53](https://github.com/sgnhyperion/egov_Digit/assets/140370637/388a7b62-93c0-40ae-8c25-bc08299e545a)
 
